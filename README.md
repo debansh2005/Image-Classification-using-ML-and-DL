@@ -65,9 +65,9 @@ jupyter notebook
 
 ## Results
 ### 🔹 Machine Learning Models
-<img src="file:///C:/Users/KIIT0001/OneDrive/Pictures/Screenshots/Screenshot%202026-04-15%20213440.png" width="500"/>
-### 🔹 Deep Learning Models
-<img src="results/images/dl_comparison.png" width="500"/>
+<img src="Screenshot%202026-04-15%20213440.png" width="500"/>
+🔹 Deep Learning Models
+<img src="Screenshot%202026-04-15%20213701.png" width="500"/>
 
 
 | Model         | Type | Accuracy   |
